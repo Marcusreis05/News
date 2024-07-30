@@ -25,26 +25,26 @@
 Este projeto consiste na criação de uma aplicação web para visualização de notícias, permitindo aos usuários cadastrarem novas notícias diretamente em um banco de dados MongoDB. Além disso, a aplicação inclui um sistema de login seguro com senhas criptografadas para garantir a segurança das informações dos usuários.
 
 Tecnologias Utilizadas:
-Express: Framework Node.js para criação de APIs e gerenciamento de rotas.
-MongoDB: Banco de dados NoSQL utilizado para armazenar as notícias cadastradas.
-Axios: Cliente HTTP para realizar requisições à API backend.
-React: Biblioteca JavaScript para construção da interface do usuário.
-Next.js: Framework React para renderização do lado do servidor e otimização de SEO.
-3T (Studio 3T): Ferramenta para administração e visualização de bancos de dados MongoDB.
-Outras Ferramentas: Serão utilizadas outras ferramentas conforme necessário, como bibliotecas de criptografia para segurança das senhas, middleware de autenticação, entre outras.
-Funcionalidades Principais:
+Express: Framework Node.js para criação de APIs e gerenciamento de rotas. <br>
+MongoDB: Banco de dados NoSQL utilizado para armazenar as notícias cadastradas. <br>
+Axios: Cliente HTTP para realizar requisições à API backend.<br>
+React: Biblioteca JavaScript para construção da interface do usuário. <br>
+Next.js: Framework React para renderização do lado do servidor e otimização de SEO. <br>
+3T (Studio 3T): Ferramenta para administração e visualização de bancos de dados MongoDB. <br>
+Outras Ferramentas: Serão utilizadas outras ferramentas conforme necessário, como bibliotecas de criptografia para segurança das senhas, middleware de autenticação, entre outras. <br>
+Funcionalidades Principais: <br>
 <br>
-Visualização de Notícias: Página inicial com listagem das notícias disponíveis.
-Cadastro de Notícias: Formulário para adicionar novas notícias ao banco de dados.
-Login Seguro: Sistema de autenticação com criptografia de senhas para acesso seguro aos recursos da aplicação.
-Integração com MongoDB: Utilização do MongoDB para armazenar e recuperar informações das notícias.
+Visualização de Notícias: Página inicial com listagem das notícias disponíveis. <br>
+Cadastro de Notícias: Formulário para adicionar novas notícias ao banco de dados. <br>
+Login Seguro: Sistema de autenticação com criptografia de senhas para acesso seguro aos recursos da aplicação. <br>
+Integração com MongoDB: Utilização do MongoDB para armazenar e recuperar informações das notícias. <br>
 <br>
-Benefícios e Objetivos:
-Experiência do Usuário: Proporcionar uma interface intuitiva e responsiva para fácil navegação e interação.
-Segurança: Garantir a proteção das informações dos usuários e das notícias cadastradas através de práticas de segurança como criptografia de senhas.
-Escalabilidade: Utilizar tecnologias modernas e escaláveis que permitam o crescimento e a manutenção da aplicação conforme necessário.
+Benefícios e Objetivos:<br>
+Experiência do Usuário: Proporcionar uma interface intuitiva e responsiva para fácil navegação e interação.<br>
+Segurança: Garantir a proteção das informações dos usuários e das notícias cadastradas através de práticas de segurança como criptografia de senhas. <br>
+Escalabilidade: Utilizar tecnologias modernas e escaláveis que permitam o crescimento e a manutenção da aplicação conforme necessário. <br>
 <br>
-Este projeto visa criar uma plataforma simples e segura para a gestão de notícias, promovendo uma experiência positiva tanto para os usuários que consomem as notícias quanto para os administradores que as publicam.
+Este projeto visa criar uma plataforma simples e segura para a gestão de notícias, promovendo uma experiência positiva tanto para os usuários que consomem as notícias quanto para os administradores que as publicam. <br>
 
 </div>
 
