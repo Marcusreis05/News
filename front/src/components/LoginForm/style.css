@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.formLogin{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.formLogin h1{
+    margin: 0;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-family: "Press Start 2P", system-ui;
+}
+
+.formLogin .boxForm{
+    border: 2px solid black;
+    padding: 60px 30px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.127);
+}
+
+.formLogin label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+
+}
+
+.formLogin input{
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.formLogin button{
+    background-color: #333;
+    margin-top: 30px;
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-family: "Press Start 2P", system-ui;
+    font-size: 10px;
+    transition: 0.3s;
+}
+
+.formLogin button:hover{
+    background-color: #ffffff;
+    color: #333;
+    outline: 0.5px solid black;
+}
